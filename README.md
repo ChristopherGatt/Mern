@@ -9,7 +9,7 @@ This project focuses on Setting up an Apollo Server to use GraphQL queries and m
 
 - [User Story](#User-Story)
 - [Acceptance Criteria](#Acceptance-Criteria)
-- [Usage](#Usage)
+
 - [Links](#links)
 - [Author](#Author)
 
