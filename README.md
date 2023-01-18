@@ -11,8 +11,7 @@ This project focuses on Setting up an Apollo Server to use GraphQL queries and m
 - [Acceptance Criteria](#Acceptance-Criteria)
 - [Usage](#Usage)
 - [Links](#links)
-- [License](#license)
-- [Credits](#Credits)
+- [Author](#Author)
 
 ## User_Story
 ```
